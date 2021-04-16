@@ -2,17 +2,19 @@
 
 <!-- E02041 -->
 <p align="center">
-  <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
-  
-  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-  
-  <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+  <img style="margin-right: 10px;" alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
 
+  <img style="margin-right: 10px;" alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+
+  <img style="margin-right: 10px;" alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+</p>
+
+<p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/EduardoPereiraBoares/my-first-typescript-frontend-web?color=%23E02041">
 
-  <a href="https://github.com/Group2IntegrationProject/back-end/commits/master">
+  <a align="center">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EduardoPereiraBoares/my-first-typescript-frontend-web?color=%23E02041">
   </a>
 
